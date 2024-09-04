@@ -30,6 +30,17 @@ button {
   grid-gap: 5px;
   justify-content: center;
   margin-top: 20px;
+  padding: 5px;
+  background-color: #0074cc;
+  border-radius: 20px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
 }
 
 /*# sourceMappingURL=style.css.map */
