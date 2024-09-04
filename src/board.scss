@@ -1,0 +1,7 @@
+.board {
+    display: grid;
+    grid-template-columns: repeat(7, 50px);
+    grid-gap: 5px;
+    justify-content: center;
+    margin-top: 20px;
+}
